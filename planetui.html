@@ -1,5 +1,12 @@
 <html>
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <head>
+       
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+
+        </head>
     <body>
         <svg width="582" height="489" viewBox="0 0 582 489" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="Group 1">
@@ -56,7 +63,8 @@
 <g id="TestUI">
 <rect x="0.5" y="0.5" width="346" height="488" fill="black"/>
 <line id="Line 1" x1="52" y1="68.5" x2="295" y2="68.5" stroke="#00FF19" stroke-width="3"/>
-<path id="Polygon 1" d="M173.5 47.5L193.419 81.25H153.581L173.5 47.5Z" fill="#2434BD"/>
+<g id="drag">
+<path id="Polygon1" d="M173.5 47.5L193.419 81.25H153.581L173.5 47.5Z" fill="#2434BD"/></g>
 <rect x="0.5" y="0.5" width="346" height="488" stroke="#FF0000"/>
 </g>
 </g>
@@ -95,4 +103,8 @@
 </defs>
 </svg>
     </body>
+    <script>
+        console.log($('#Polygon1').attr('fill'));
+        $('#drag').draggable();
+    </script>
 </html>

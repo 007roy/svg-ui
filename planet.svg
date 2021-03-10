@@ -91,4 +91,9 @@
 </linearGradient>
 </defs>
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<script>
+console.log($('#Polygon 1').attr('fill'));
+</script>
+
 </svg>
