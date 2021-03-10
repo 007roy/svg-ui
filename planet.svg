@@ -1,56 +1,64 @@
-<svg width="117" height="101" viewBox="0 0 117 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="582" height="489" viewBox="0 0 582 489" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1">
 <g id="Planet">
 <g id="Masked">
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="38" y="30" width="40" height="41">
-<circle id="SmallPlanet" cx="58" cy="50.5" r="20" fill="#C4C4C4"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="503" y="224" width="40" height="41">
+<circle id="SmallPlanet" cx="523" cy="244.5" r="20" fill="#C4C4C4"/>
 </mask>
 <g mask="url(#mask0)">
 </g>
-<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="11" y="-2" width="95" height="106">
-<path id="SunMask" fill-rule="evenodd" clip-rule="evenodd" d="M63.0839 20.929L58.5 -1.5L53.9484 20.7713C49.3915 21.3865 45.1592 23.0248 41.4904 25.4474L24.9124 13.8769L34.8998 31.3577C31.3537 35.6322 28.9714 40.907 28.2389 46.6961L11 51L28.3886 55.3413C29.2912 60.9045 31.7238 65.9546 35.2406 70.0459L24.9124 88.1231L42.2382 76.0307C45.6723 78.1553 49.567 79.6064 53.7381 80.1996L58.5 103.5L63.2958 80.0341C67.2883 79.3229 71.0076 77.8221 74.2862 75.6987L92.0876 88.1231L81.3526 69.3339C84.4967 65.4404 86.6869 60.7446 87.568 55.6018L106 51L87.7273 46.438C87.0012 41.0735 84.8571 36.1592 81.6847 32.0849L92.0876 13.8769L75.0179 25.7906C71.5084 23.3689 67.4576 21.6755 63.0839 20.929Z" fill="#C4C4C4"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="476" y="192" width="95" height="106">
+<path id="SunMask" fill-rule="evenodd" clip-rule="evenodd" d="M528.084 214.929L523.5 192.5L518.948 214.771C514.391 215.386 510.159 217.025 506.49 219.447L489.912 207.877L499.9 225.358C496.354 229.632 493.971 234.907 493.239 240.696L476 245L493.389 249.341C494.291 254.905 496.724 259.955 500.241 264.046L489.912 282.123L507.238 270.031C510.672 272.155 514.567 273.606 518.738 274.2L523.5 297.5L528.296 274.034C532.288 273.323 536.008 271.822 539.286 269.699L557.088 282.123L546.353 263.334C549.497 259.44 551.687 254.745 552.568 249.602L571 245L552.727 240.438C552.001 235.073 549.857 230.159 546.685 226.085L557.088 207.877L540.018 219.791C536.508 217.369 532.458 215.676 528.084 214.929Z" fill="#C4C4C4"/>
 </mask>
 <g mask="url(#mask1)">
 </g>
-<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="18" y="10" width="80" height="81">
-<circle id="LargePlanet" cx="58" cy="50.5" r="40" fill="#C4C4C4"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="483" y="204" width="80" height="81">
+<circle id="LargePlanet" cx="523" cy="244.5" r="40" fill="#C4C4C4"/>
 </mask>
 <g mask="url(#mask2)">
 </g>
-<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="28" y="20" width="60" height="61">
-<circle id="MediumPlanet" cx="58" cy="50.5" r="30" fill="#C4C4C4"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="493" y="214" width="60" height="61">
+<circle id="MediumPlanet" cx="523" cy="244.5" r="30" fill="#C4C4C4"/>
 </mask>
 <g mask="url(#mask3)">
 <g id="RedWhiteBase">
-<rect x="8.00006" y="0.499878" width="100" height="100" fill="#B61414"/>
-<rect x="8.00006" y="0.499878" width="100" height="100" fill="url(#paint0_linear)"/>
+<rect x="473" y="194.5" width="100" height="100" fill="#B61414"/>
+<rect x="473" y="194.5" width="100" height="100" fill="url(#paint0_linear)"/>
 </g>
 <g id="Land" filter="url(#filter0_d)">
-<path d="M49.5808 62.2827C48.6791 63.9555 45.8897 67.467 41.9451 68.1306L36.6522 68.6154L39.7018 63.2349L31.6107 50.7036L36.4363 45.6328L38.9309 32.1318L58.1046 35.1932L65.3136 40.6731L73.0193 37.6528L72.7973 42.9632L58.4199 47.9172L49.0609 55.5761L49.5808 62.2827Z" fill="#736F17"/>
-<path d="M68.1526 69.603L65.1674 63.3111L57.4442 65.6245L55.966 77.332L68.1526 69.603Z" fill="#736F17"/>
-<path d="M84.6975 52.2172L78.9022 46.7022L72.5577 47.5668L79.8487 42.0811L88.0743 45.7676L84.6975 52.2172Z" fill="#736F17"/>
-<path d="M67.0994 21.7107L56.5028 24.7042L43.6339 23.0784L42.384 8.21445L58.2623 4.62549L67.0994 21.7107Z" fill="#736F17"/>
-<path d="M39.0736 29.6514L30.8909 22.1485L28.3177 33.7515L39.0736 29.6514Z" fill="#736F17"/>
-<path d="M83.8103 70.4267L75.5352 60.4255L72.7599 53.023L81.7388 54.9927L94.9675 44.697L91.0361 54.7491L89.1922 64.4238L83.8103 70.4267Z" fill="#736F17"/>
+<path d="M514.581 256.283C513.679 257.956 510.89 261.467 506.945 262.131L501.652 262.615L504.702 257.235L496.611 244.704L501.436 239.633L503.931 226.132L523.105 229.193L530.314 234.673L538.019 231.653L537.797 236.963L523.42 241.917L514.061 249.576L514.581 256.283Z" fill="#736F17"/>
+<path d="M533.153 263.603L530.167 257.311L522.444 259.624L520.966 271.332L533.153 263.603Z" fill="#736F17"/>
+<path d="M549.697 246.217L543.902 240.702L537.558 241.567L544.849 236.081L553.074 239.768L549.697 246.217Z" fill="#736F17"/>
+<path d="M532.099 215.711L521.503 218.704L508.634 217.078L507.384 202.214L523.262 198.625L532.099 215.711Z" fill="#736F17"/>
+<path d="M504.074 223.651L495.891 216.148L493.318 227.751L504.074 223.651Z" fill="#736F17"/>
+<path d="M548.81 264.427L540.535 254.426L537.76 247.023L546.739 248.993L559.967 238.697L556.036 248.749L554.192 258.424L548.81 264.427Z" fill="#736F17"/>
 </g>
 <g id="Clouds" filter="url(#filter1_d)">
-<ellipse id="Ellipse 5" cx="87" cy="29.5" rx="27" ry="3" fill="white"/>
-<ellipse id="Ellipse 8" cx="30" cy="58.5" rx="27" ry="3" fill="white"/>
-<ellipse id="Ellipse 12" cx="35" cy="79.5" rx="27" ry="3" fill="white"/>
-<ellipse id="Ellipse 6" cx="27" cy="38" rx="18" ry="3.5" fill="white"/>
-<ellipse id="Ellipse 9" cx="77" cy="71.5" rx="18" ry="5" fill="white"/>
-<ellipse id="Ellipse 7" cx="64" cy="46.5" rx="18" ry="2" fill="white"/>
-<ellipse id="Ellipse 11" cx="35" cy="21.5" rx="18" ry="2" fill="white"/>
-<ellipse id="Ellipse 10" cx="91.5" cy="61.5" rx="22.5" ry="3" fill="white"/>
+<ellipse id="Ellipse 5" cx="552" cy="223.5" rx="27" ry="3" fill="white"/>
+<ellipse id="Ellipse 8" cx="495" cy="252.5" rx="27" ry="3" fill="white"/>
+<ellipse id="Ellipse 12" cx="500" cy="273.5" rx="27" ry="3" fill="white"/>
+<ellipse id="Ellipse 6" cx="492" cy="232" rx="18" ry="3.5" fill="white"/>
+<ellipse id="Ellipse 9" cx="542" cy="265.5" rx="18" ry="5" fill="white"/>
+<ellipse id="Ellipse 7" cx="529" cy="240.5" rx="18" ry="2" fill="white"/>
+<ellipse id="Ellipse 11" cx="500" cy="215.5" rx="18" ry="2" fill="white"/>
+<ellipse id="Ellipse 10" cx="556.5" cy="255.5" rx="22.5" ry="3" fill="white"/>
 </g>
 </g>
 </g>
 <g id="MPRingBase" filter="url(#filter2_d)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M24.3768 38.3098C24.6813 37.4286 27.1078 37.3508 31.0135 37.9404C31.9493 35.9181 33.1081 34.0055 34.4687 32.2383C17.7161 28.4601 5.69637 28.0712 4.36514 31.9237C2.38097 37.6656 24.8928 50.6553 54.6466 60.937C84.4005 71.2186 110.129 74.8987 112.113 69.1567C113.445 65.3043 103.749 58.1893 88.238 50.8186C88.2173 53.0488 87.948 55.2688 87.4357 57.4374C90.8721 59.3849 92.7329 60.9443 92.4284 61.8254C91.6167 64.1744 75.7248 60.8145 56.9329 54.3208C38.141 47.8272 23.5651 40.6588 24.3768 38.3098Z" fill="#DC70BE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M489.377 232.31C489.681 231.429 492.108 231.351 496.013 231.94C496.949 229.918 498.108 228.005 499.469 226.238C482.716 222.46 470.696 222.071 469.365 225.924C467.381 231.666 489.893 244.655 519.647 254.937C549.401 265.219 575.129 268.899 577.113 263.157C578.445 259.304 568.749 252.189 553.238 244.819C553.217 247.049 552.948 249.269 552.436 251.437C555.872 253.385 557.733 254.944 557.428 255.825C556.617 258.174 540.725 254.814 521.933 248.321C503.141 241.827 488.565 234.659 489.377 232.31Z" fill="#DC70BE"/>
 </g>
-<rect x="8.5" y="1" width="99" height="99" stroke="black"/>
+<rect x="473.5" y="195" width="99" height="99" stroke="black"/>
+</g>
+<g id="TestUI">
+<rect x="0.5" y="0.5" width="346" height="488" fill="black"/>
+<line id="Line 1" x1="52" y1="68.5" x2="295" y2="68.5" stroke="#00FF19" stroke-width="3"/>
+<path id="Polygon 1" d="M173.5 47.5L193.419 81.25H153.581L173.5 47.5Z" fill="#2434BD"/>
+<rect x="0.5" y="0.5" width="346" height="488" stroke="#FF0000"/>
+</g>
 </g>
 <defs>
-<filter id="filter0_d" x="24.3177" y="4.62549" width="74.6498" height="80.7065" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d" x="489.318" y="198.625" width="74.6498" height="80.7065" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -59,7 +67,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter1_d" x="-1" y="19.5" width="119" height="71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_d" x="464" y="213.5" width="119" height="71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -68,7 +76,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter2_d" x="0.243439" y="29.2134" width="115.992" height="50.6536" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_d" x="465.243" y="223.213" width="115.992" height="50.6536" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
@@ -77,7 +85,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear" x1="58.0001" y1="0.499878" x2="58.0001" y2="100.5" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear" x1="523" y1="194.5" x2="523" y2="294.5" gradientUnits="userSpaceOnUse">
 <stop stop-color="white"/>
 <stop offset="1" stop-color="white" stop-opacity="0"/>
 </linearGradient>
